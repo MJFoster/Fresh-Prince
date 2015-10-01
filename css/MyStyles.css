@@ -1,0 +1,14 @@
+h1 {
+	color: red;
+	background-color: blue;
+	text-align: center;
+}
+
+#intro {
+	background-color: blue;
+	color: white;
+	text-align: center;
+	font-style: italic;
+}
+
+
